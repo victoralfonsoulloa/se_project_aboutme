@@ -40,7 +40,7 @@ a {
 .header {
     height: 100vh;
     background-color: rgb(2, 9, 38);;
-    background-image: url(/images/background-image14.jpg);
+    background-image: url(images/background-image14.jpg);
     background-size: cover;
     background-position: center;
     border-bottom: 5px solid rgb(2, 9, 38);
